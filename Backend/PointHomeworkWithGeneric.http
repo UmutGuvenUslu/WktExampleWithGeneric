@@ -1,0 +1,6 @@
+@PointHomeworkWithGeneric_HostAddress = http://localhost:5142
+
+GET {{PointHomeworkWithGeneric_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
